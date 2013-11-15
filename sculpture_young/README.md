@@ -2,6 +2,8 @@
 
 A recent transplant to Loveland, Colorado, sculptor David Young discusses his work, his inspiration, and the challenges of constructing engaging and creative artwork from found materials. 
 
+Visit David's website to learn more about his work: [davidyoungartist.com](http://davidyoungartist.com)
+
 *Presented by David Young 2011/11/13*
 
 ![packrats](http://davidyoungartist.files.wordpress.com/2013/10/6_david_young.jpg?w=&h=200&crop=1) 
