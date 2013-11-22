@@ -1,6 +1,6 @@
 # Using Tor - Practical Privacy on the Internet
 
-Creator Josh Datko discusses why internet privacy is important, and the different tools you can use to protect yourself online. To start a series of lectures, Josh provided an introduction to Tor, a powerful volunteer-driven network that can help you maintain your online anonymity.
+Creator Josh Datko discusses why internet privacy is important, and the different tools you can use to protect yourself online. To start a series of lectures, Josh provided an introduction to Tor, a powerful volunteer-driven network, that can help you maintain your online anonymity.
 
 Stay tuned for more in this continuing series of lectures.
 
