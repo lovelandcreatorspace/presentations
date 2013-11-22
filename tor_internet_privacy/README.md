@@ -8,6 +8,6 @@ Visit Josh's website to learn more about his projects: [datko.net](http://datko.
 
 *Presented by Josh Datko 2011/11/20*
 
-![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/crypto_for_makers/img/creativecommons.png) 
-![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/crypto_for_makers/img/tor.png) 
-![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/crypto_for_makers/img/opensource.png) 
+![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/tor_internet_privacy/img/creativecommons.png) 
+![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/tor_internet_privacy/img/tor.png) 
+![creative commons](https://raw.github.com/lovelandcreatorspace/presentations/master/tor_internet_privacy/img/opensource.png) 
