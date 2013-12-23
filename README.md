@@ -3,14 +3,14 @@ Loveland CreatorSpace Presentations
 
 A repository for presentations made in cooperation with the Loveland CreatorSpace. 
 ##### Upcoming Presentations: 
-* ***"Introduction to DC Electronics" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Stephen Warren ?/?/?*
-* ***"Introduction to Digital Electronics" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Stephen Warren ?/?/?*
-* ***"Build Your Own Logic Gate" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Stephen Warren ?/?/?*
-* ***"Introduction to EAGLE" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Casey Kuhns ?/?/?*
-* ***"Crypto Cape Development Process" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Josh Datko ?/?/?*
-* ***"Introduction to Programming (with Scratch)" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Jamie Leben ?/?/?*
-* ***"Arduino 101 (Repeat!)" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Daniel Packard ?/?/?*
-* ***"Arduino 102" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_coon)*** - *Presented by Daniel Packard ?/?/?*
+* ***"Introduction to DC Electronics" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Stephen Warren ?/?/?*
+* ***"Introduction to Digital Electronics" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Stephen Warren ?/?/?*
+* ***"Build Your Own Logic Gate" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Stephen Warren ?/?/?*
+* ***"Introduction to EAGLE" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Casey Kuhns ?/?/?*
+* ***"Crypto Cape Development Process" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Josh Datko ?/?/?*
+* ***"Introduction to Programming (with Scratch)" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Jamie Leben ?/?/?*
+* ***"Arduino 101 (Repeat!)" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Daniel Packard ?/?/?*
+* ***"Arduino 102" - [Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)*** - *Presented by Daniel Packard ?/?/?*
 
 
 ##### Recent Presentations:
