@@ -1,6 +1,6 @@
-***"Digital logic: Build Your Own Logic Gate From Scratch" - 
+*** "Digital logic: Build Your Own Logic Gate From Scratch" - ***
 
-[Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)***  
+[Coming soon!](http://github.com/lovelandcreatorspace/presentations/tree/master/coming_soon)
 
 Cover the basics of digital logic; how do digital circuits represent data, some of the simple operations you can perform on the data, and how logic gates are constructed from transistors.  
 
